@@ -10,4 +10,4 @@
 
 ## Reporting a Vulnerability
 
-If there is a security vulnerability in this application, please report it under the Issues section.
+If there is a security vulnerability in this application, please report it under the Issues section with the "Security Issue" tag.
