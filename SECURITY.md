@@ -1,4 +1,6 @@
 # Security Policy
+Any version marked with :x: will no loonger recieve security updates.
+Any version marked with :white_check_mark: will recieve security updates.
 
 ## Supported Versions
 
