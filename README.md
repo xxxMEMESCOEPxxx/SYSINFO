@@ -8,9 +8,9 @@ ping requests or are undergoing maintainance at the time of running the ping com
 
 NOTE: THIS SOFTWARE COMES WITH NO WARRANTY! ANY DAMAGE THAT YOU DO USING THIS SOFTWARE (This happens rarely, if at all) IS YOUR RESPONSIBILITY! I AM NOT TO BE HELD RESPONSIBLE FOR ALL DAMAGE AND/OR DATA LOSS CAUSED BY USE OF THIS SOFTWARE!
 
-GNU Public License Terms:
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+Please read the GNU Public License Terms below:
+
+                    
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
