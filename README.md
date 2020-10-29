@@ -6,6 +6,4 @@ You can also see useful information about your hard disks.
 Pinging the servers might take up to 2 minutes depending on your connection speed! If some servers (6, 13) fail to connect or respond, it is ok as they are probably not accepting 
 ping requests or are undergoing maintainance at the time of running the ping command. Servers 6 and 13 have had the least success with the ping test!)
 
-========================================================================================================================================
-THIS SOFTWARE COMES WITH NO WARRANTY! ANY DAMAGE THAT YOU DO USING THIS SOFTWARE (THis appens rarely, if at all) IS YOUR RESPONSIBILITY!
-========================================================================================================================================
+~~~~~THIS SOFTWARE COMES WITH NO WARRANTY! ANY DAMAGE THAT YOU DO USING THIS SOFTWARE (THis appens rarely, if at all) IS YOUR RESPONSIBILITY!~~~~~
