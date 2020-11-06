@@ -12,7 +12,7 @@
 | ------- | ------------------ |
 | 1.0     | :x: |
 | 1.1     | :x: |
-| 1.2     | :white_check_mark: |
+| 1.2     | :red_circle: |
 | 1.3     | :white_check_mark: |
 
 
